@@ -1,29 +1,21 @@
-Post date : 2020/05/30
+Last update : 2021/01/11
 
 ---
 
-# About - hrgm is 誰
+# hrgm@cmk
 
-**_hrgm_** - @関西 プリプリの三十代後半
+フロントエンド寄りのフルスタックな Web エンジニア。
 
-フロントエンド寄りのフルスタックな Web エンジニアです。
+独立系 SIer に所属しています。
 
-フロントエンドは Angular を使用した SPA や、 ES2015+ / TypeScript と Sass を webpack でコンパイルして MPA が構築できます。
-Web デザイン (UI / UX) は専門外ですが、何かしらの CSS フレームワークを使用したそれっぽい業務アプリなら作れます。
+バックエンドは色々触った結果、 Python に落ち着きました。
 
-バックエンドでは、まだ経験は浅いもののプライベートも含めて Django を主に使用していて、ほとんど書けないけれど仕事で使っているのが Ruby on Rails です。
-一番経験が長いのは VBScript (ASP) ですが、もう今後のエンジニア人生で書くことは無いと信じています。
+ここ数年は業務用 Web アプリの開発がメインです。
 
-インフラやサーバ周りは一から環境構築する知識や技術を持ち合わせていないので、誰か詳しい人に任せるか、最近だと GCP などのクラウドサービスを利用しています。
-
-AI / 機械学習に興味がありますが、まだ趣味レベルにも達していません。
-
-機械学習の基礎をちょっとかじり始めたところで、正攻法では大学などで専攻したガチ勢に絶対敵わないことを悟ったので、Python の各種ライブラリやフレームワーク周辺からのアプローチに切り替えました。
-
-第一線でエンジニアを続けていくためには、プライベートでも勉強やコードを書く必要があると考えており、それ自体にはまったく抵抗がありません。
-知識と技術のアップデートをし続けることが仕事の成功に繋がり、それが結果としてプライベートを充実させる一番の近道だと思っています。
-
-お金と時間と良質な仕事を与えると、勝手にスキルアップします。
+> ### In more detail
+>
+> - [Profile (プロフィール)](https://github.com/hrgm/hrgm/tree/master/profile)
+> - [Curriculum Vitae (職務経歴書)](https://github.com/hrgm/hrgm/tree/master/cv)
 
 ## Blog
 
@@ -35,133 +27,48 @@ AI / 機械学習に興味がありますが、まだ趣味レベルにも達し
 - Qiita - [https://qiita.com/hrgm_cmk](https://qiita.com/hrgm_cmk)
 - Wantedly - [https://www.wantedly.com/users/17886460](https://www.wantedly.com/users/17886460)
 
-## Code
+# Technology Stack
 
-- GitHub - [https://github.com/hrgm](https://github.com/hrgm)
+現在のメインストリーム。
 
-## Qualification - 資格など
+## Frontend
 
-| Date    | Qualification                                                                                    |
-| :------ | :----------------------------------------------------------------------------------------------- |
-| 2020/03 | 情報処理安全確保支援士 (登録セキスペ) 更新                                                       |
-| 2019/10 | Python3 エンジニア認定基礎試験 合格                                                              |
-| 2019/04 | 情報処理安全確保支援士 (登録セキスペ) 登録                                                       |
-| 2018/12 | Linux 技術者認定資格 LinuC レベル 1                                                              |
-| 2018/12 | 情報処理安全確保支援士試験 (登録セキスペ) 合格                                                   |
-| 2018/09 | CCENT (Cisco Certified Entry Networking Technician)                                              |
-| 2018/05 | ORACLE MASTER Silver Oracle Database 12c (Oracle Database 12c Administrator Certified Associate) |
-| 2018/03 | ORACLE MASTER Bronze Oracle Database 12c                                                         |
-| 2017/12 | 応用情報技術者                                                                                   |
-| 2009/05 | 基本情報技術者                                                                                   |
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=fff)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=Ionic&logoColor=fff)
 
-## Employment history - 社歴
+## Backend
 
-| Date              | Company                                                           |
-| :---------------- | :---------------------------------------------------------------- |
-| 2013/07 - 現在    | [コンピューターマネージメント株式会社](https://www.cmknet.co.jp/) |
-| 2010/06 - 2013/06 | 某モバイル向け ASP 企業                                           |
-| 2008/05 - 2010/05 | 零細 SIer                                                         |
-| 2006/06 - 2008/03 | 起業 (廃業済み)                                                   |
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff)
 
-## Like - 好きなこと
+## Database
 
-一人で黙々とコードを書くのが好きです。
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=Oracle&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=fff)
 
-優秀なマネージャーがいるチームで、自分の役割としてコードとじっくり向き合うことができる環境だと最高です。
+## Cloud
 
-自分のパフォーマンスを出す・高めることを第一に考えており、そのための自己研鑽には時間を惜しみません。
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=Google-Cloud&logoColor=fff)
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/-Oracle_Cloud_Infrastructure-F80000?logo=Oracle&logoColor=fff)
 
-表面的に技術を理解してさくっと使用するのではなく、書籍や公式ドキュメントをじっくり読みこみ、理解して使いこなすことに悦びを感じます。
+## Other
 
-`何でも満遍なくできる人` よりも `何かに尖った人` の方がカッコイイと思っています。
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=Visual-Studio-Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff)
 
-業務では常に自分以上のエンジニアを追いかけていたいです。
+# GitHub Stats
 
-## Dislike - 好きじゃないこと
+GitHub はプライベートでのみ使用しています。
 
-部下や後輩の教育や育成、組織マネジメントには現時点ではあまり興味がありません。
-
-他者に興味がないわけではなく、オンライン上でのコミュニケーションは積極的に取る方だと思っていますが、今は自分を高めることで精一杯です。
-
-SIer あるあるの誰も読まない設計書作成や Excel スクショ職人は必要悪だと理解していますが、そもそもそんなものを必要としない仕事がしたいです。
-
-2020 年明けからの複業のリモートワーク、そしてコロナ渦による本業のリモートワークを通して QOL と業務効率の爆上げを経験したので、もう意味もなく決まった時間に決まった場所で仕事をするのはやめようと思いました。
-
-## Technology stack - できること
-
-### Main - よく使うもの
-
-#### Frontend - フロントエンド
-
-| 言語       | フレームワーク | ツール   |
-| :--------- | :------------- | :------- |
-| HTML       | Angular        | Yarn     |
-| CSS        | Ionic          | webpack  |
-| Sass       |                | Prettier |
-| JavaScript |                | ESLint   |
-| TypeScript |                |          |
-
-#### Backend - バックエンド
-
-| 言語   | フレームワーク | 環境    |
-| :----- | :------------- | :------ |
-| Python | Django         | Node.js |
-|        | Flack          |         |
-
-#### Database - データベース
-
-Oracle
-
-#### Cloud - クラウド
-
-GCP (Google Cloud Platform)
-
-### Sub - 昔使っていたもの、あまり使わないもの
-
-| Frontend - フロントエンド | Backend - バックエンド    | Database - データベース |
-| :------------------------ | :------------------------ | :---------------------- |
-| BootStrap                 | Java                      | MySQL                   |
-| jQuery                    | PHP                       | PostgreSQL              |
-| Gulp                      | Visual Basic              | Microsoft SQL Server    |
-|                           | VBScript                  |                         |
-|                           | JScript                   |                         |
-|                           | ASP (Active Server Pages) |                         |
-
-# Recent activities - 最近どう ?
-
-2019 年から Python を学び始め、学習の一環として Python3 エンジニア認定基礎試験に合格しました。
-
-年明けからはリモートワークとして、 Python の フルスタック Web フレームワークである Django を使用した Web アプリの開発を行いました。
-
-Python はたまたま声を掛けてもらってリモート開発を行いましたが、 2019 年度の主業務は Ionic (Angular) と Ruby on Rails を使用したマルチデバイス向け Web アプリの開発で、現在も追加要件や課題対応を行っています。
-
-プライベートでは関西圏で行われる様々な LT 会や勉強会にちょくちょく参加させていただいていますが、登壇経験はありません。
-
-日々学んだことは [Qiita](https://qiita.com/hrgm_cmk) や [はてなブログ](https://ai-can-fly.hateblo.jp/) などで、少しずつアウトプットするように心掛けています。
-
-# Future Plans - 今後の予定
-
-社内に開発チームを作ろうとしています。
-
-[CMK Edges (仮称)](https://github.com/hrgm/cmk-edges)
-
-SIer にありがちな案件ありきの寄せ集めチームではなく、役割ごとの専属メンバで構成されたホラクラシー型の開発チームを組織し、受託開発から自社プロダクトの立ち上げまでを目標に考えています。
-
-そもそも社内の風土にややミスマッチな部分があり、どこまで実現に近付けることができるかは不透明ですが、妥協せずにいけるところまでいくつもりです。
-
-と言いつつ、他に良い環境があればいつでも JOIN できるように、常にアンテナは張り続けようと思っています。
-
-# Wish and Hope - 希望
-
-- 年収 600 万+
-- Web サービス (自社プロダクト) の開発
-- 自分よりレベルが高いエンジニアが沢山いるチーム
-- リモートワーク中心
-
-Web を中心とした仕事で、個人の技術と知識を高めることが評価に繋がる環境が理想です。
-
-基本はリモートワークで必要に応じてオンライン・オフラインで適切なコミュニケーションを取るという、合理的で柔軟な考え方ができる組織だと尚嬉しいです。
-
-スキルと待遇がマッチする環境があれば、いつでもお声掛けください。
-
-会社を通した仕事のご依頼は弊社ホームページの [お問い合わせ](https://www.cmknet.co.jp/inquiry/) から、個人的なお話は各種 SNS からご連絡頂けるとありがたいです。
+![hrgm's github stats](https://github-readme-stats.vercel.app/api?username=hrgm&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrgm&langs_count=10&layout=compact)
