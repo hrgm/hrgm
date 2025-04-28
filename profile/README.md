@@ -1,28 +1,27 @@
-Last update : 2021/01/11
+Last update : 2025/04/28
 
 ---
 
 # About - hrgm is 誰
 
-**_hrgm_** - @関西 プリプリの三十代後半
+**_hrgm_** - @関西 人生まだまだこれからの四十代前半
 
-フロントエンド寄りのフルスタックな Web エンジニアです。
+フロントエンド寄りのフルスタックな Web エンジニアでしたが、現在はクラウドエンジニアとして活動中。
 
-アプリサーバ、データベースなどの比較的レイヤーが高めのミドル領域から、凝った Web デザインを除くフロントエンドまでが守備範囲です。
+アプリサーバ、データベースなどの比較的レイヤーが高めのミドル領域から、凝った Web デザインを除くフロントエンドまでが守備範囲で、各領域に関連するクラウドサービスにも対応できます。
 
-フロントエンドは Angular を使用した SPA や、 ES2015+ / TypeScript と Sass を webpack でトランスパイルして MPA が構築できます。
+フロントエンドは Angular を使用した SPA や、 ES2015+ / TypeScript と Sass を webpack でトランスパイルして MPA の構築などをしていました。  
 Web デザイン (UI / UX) は専門外ですが、何かしらの CSS フレームワークや UI ライブラリを使えば、それっぽい業務アプリが作れます。
 
 バックエンドは今まで PHP や VBScript (ASP) 、 Ruby on Rails など色々触ってきましたが、最近は Python に落ち着き、 Flask や Django を使って REST API や MPA の Web アプリを作ることが多いです。
 
-インフラやサーバ周りは一から環境構築・運用する知識や技術を持ち合わせていないので、誰か詳しい人に任せるか、 GCP や Heroku などのフルマネージドなクラウドサービスを利用するようにしています。
+インフラやサーバ周りは一から環境構築・運用する知識や技術を持ち合わせていないので、誰か詳しい人に任せるか、 Microsoft Azure や Firebase などのマネージドなクラウドサービスを利用するようにしています。  
+最近は Microsoft Azure 上での開発・運用・保守を行うプロジェクトに参画しているので、もっぱら技術的な学びは Microsoft Azure に偏っています。
 
-AI / 機械学習に興味がありますが、まだ趣味レベルにも達していません。
-
-機械学習の基礎をかじり始めたところ、正攻法では大学などで専攻したガチ勢に絶対敵わないことを悟ったので、 Python の各種ライブラリやフレームワークを使用する実務サイドからのアプローチに切り替えました。
-
-第一線でエンジニアを続けていくためには、プライベートでも勉強やコードを書く必要があると考えており、それ自体にはまったく抵抗がありません。
+第一線でエンジニアを続けていくためには、プライベートでも勉強やコードを書く必要があると考えており、それ自体にはまったく抵抗がありません。  
 知識と技術のアップデートをし続けることが仕事の成功に繋がり、それが結果としてプライベートを充実させる一番の近道だと思っています。
+
+とは言いつつも、このところ年を取ったせいか、コードをガリガリ書くエンジニアもいいですが、エンジニアリングマネージャやスクラムマスターなどの開発者を支援するポジションも良いなと感じています。
 
 お金と時間と良質な仕事を与えると、勝手にスキルアップします。
 
@@ -32,9 +31,10 @@ AI / 機械学習に興味がありますが、まだ趣味レベルにも達し
 
 ## SNS
 
-- Twitter - [https://twitter.com/hrgm_cmk](https://twitter.com/hrgm_cmk)
+- X (Twitter) - [https://twitter.com/hrgm_cmk](https://twitter.com/hrgm_cmk)
 - Qiita - [https://qiita.com/hrgm_cmk](https://qiita.com/hrgm_cmk)
 - Wantedly - [https://www.wantedly.com/users/17886460](https://www.wantedly.com/users/17886460)
+- ブクログ - [https://booklog.jp/users/hrgm](https://booklog.jp/users/hrgm)
 
 ## Code
 
@@ -44,6 +44,12 @@ AI / 機械学習に興味がありますが、まだ趣味レベルにも達し
 
 | Date    | Qualification                                                                                    |
 | :------ | :----------------------------------------------------------------------------------------------- |
+| 2024/09 | Microsoft Certified: Azure Administrator Associate (AZ-104)                                      |
+| 2024/06 | LinuC-3 304 Virtualization & High Availability 認定プロフェッショナル                            |
+| 2023/12 | LinuC-2 認定プロフェッショナル                                                                   |
+| 2022/11 | Microsoft Certified: Azure Fundamentals (AZ-900)                                                 |
+| 2022/10 | 「HTML5レベル2」認定プロフェッショナル                                                           |
+| 2022/07 | 「HTML5レベル1」認定プロフェッショナル                                                           |
 | 2020/11 | Python3 エンジニア認定データ分析試験 合格                                                        |
 | 2020/09 | 情報処理安全確保支援士 (登録セキスペ) 更新 (2020 年度)                                           |
 | 2020/03 | 情報処理安全確保支援士 (登録セキスペ) 更新 (2019 年度)                                           |
@@ -62,33 +68,32 @@ AI / 機械学習に興味がありますが、まだ趣味レベルにも達し
 | Date              | Company                                                           |
 | :---------------- | :---------------------------------------------------------------- |
 | 2013/07 - 現在    | [コンピューターマネージメント株式会社](https://www.cmknet.co.jp/) |
-| 2010/06 - 2013/06 | モバイル向け ASP 企業                                             |
-| 2008/05 - 2010/05 | 零細 SIer                                                         |
+| 2010/05 - 2013/06 | ASP サービス企業                                                  |
+| 2008/06 - 2010/04 | SIer 企業                                                         |
 | 2006/06 - 2008/03 | 起業 (廃業済み)                                                   |
 
 ## Like - 好きなこと
 
-一人で黙々とコードを書くのが好きです。
-
+一人で黙々とコードを書くのが好きです。  
 優秀なマネージャーがいるチームで、自分の役割としてコードとじっくり向き合うことができる環境だと最高です。
 
-自分のパフォーマンスを出す・高めることを第一に考えており、そのための自己研鑽には時間を惜しみません。
-
+自分のパフォーマンスを出す・高めることを第一に考えており、そのための自己研鑽には時間を惜しみません。  
 表面的に技術を理解してさくっと使用するのではなく、書籍や公式ドキュメントをじっくり読みこみ、理解して使いこなすことに悦びを感じます。
 
 `何でも満遍なくできる人` よりも `何かに尖った人` の方がカッコイイと思っています。
 
 業務では常に自分以上のエンジニアを追いかけていたいです。
 
+最近はチームマネジメントやスクラム開発を行っていて、管理・支援系の業務にも興味を持ち始めました。
+
 ## Dislike - 好きじゃないこと
 
-部下や後輩の教育や育成、組織マネジメントには現時点ではあまり興味がありません。
-
-他者に興味がないわけではなく、オンライン上でのコミュニケーションは積極的に取る方だと思っていますが、今は自分を高めることで精一杯です。
+小さなチームのマネジメントを行っていますが、部下や後輩の教育や育成、大規模な組織マネジメントは現時点ではあまり興味がありません。  
+自分以上の能力を持つメンバと一緒に仕事がしたいという気持ちが強く、今は自分を高めることで精一杯です。
 
 SIer あるあるの誰も読まない設計書作成や Excel スクショ職人は必要悪だと理解していますが、そもそもそんなものを必要としない仕事がしたいです。
 
-2020 年春頃からのコロナ渦によるリモートワークを通して、不定期的ではあったものの QOL と業務効率の爆上げを経験したので、もう意味もなく決まった時間に決まった場所で仕事をするのはやめようと思いました。
+2020 年春頃からのコロナ渦によるリモートワークを通して、 QOL と業務効率の爆上げを経験したので、もう意味もなく決まった時間に決まった場所で仕事をするのはやめようと思いました。
 
 ## Technology stack - できること
 
@@ -111,9 +116,7 @@ SIer あるあるの誰も読まない設計書作成や Excel スクショ職�
 
 ##### Tool - ツールなど
 
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=Yarn&logoColor=fff)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=NPM&logoColor=fff)
-![webpack](https://img.shields.io/badge/-webpack-8DD6F9?logo=Webpack&logoColor=000)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=Prettier&logoColor=000)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=fff)
 
@@ -142,9 +145,9 @@ SIer あるあるの誰も読まない設計書作成や Excel スクショ職�
 
 #### Cloud - クラウド
 
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-33B2EB?logo=Microsoft_Azure&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?logo=Firebase&logoColor=fff)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=Google-Cloud&logoColor=fff)
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/-Oracle_Cloud_Infrastructure-F80000?logo=Oracle&logoColor=fff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=fff)
 
 #### Other - その他
 
@@ -153,6 +156,7 @@ SIer あるあるの誰も読まない設計書作成や Excel スクショ職�
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=Visual-Studio-Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=Docker&logoColor=fff)
 
 ### Sub - 昔使っていたもの、仕事で少し触ったもの
 
@@ -160,11 +164,15 @@ SIer あるあるの誰も読まない設計書作成や Excel スクショ職�
 
 ![BootStrap](https://img.shields.io/badge/-BootStrap-7952B3?logo=BootStrap&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=fff)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=Yarn&logoColor=fff)
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=fff)
+
+##### Tool - ツールなど
+
+![webpack](https://img.shields.io/badge/-webpack-8DD6F9?logo=Webpack&logoColor=000)
 
 #### Backend - バックエンド
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=fff)
 ![Visual Basic](https://img.shields.io/badge/-Visual_Basic-5C2D91?logo=Visual-Studio&logoColor=fff)
 ![Active Server Pages](<https://img.shields.io/badge/-Active_Server_Pages_(ASP)-666?logo=Microsoft&logoColor=fff>)
@@ -174,41 +182,48 @@ SIer あるあるの誰も読まない設計書作成や Excel スクショ職�
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=Microsoft-SQL-Server&logoColor=fff)
 
+#### Cloud - クラウド
+
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/-Oracle_Cloud_Infrastructure-F80000?logo=Oracle&logoColor=fff)
+
 # Recent activities - 最近どう ?
 
-2019 年から Python を学び始め、 Python3 エンジニア認定基礎試験 (2019 年 10 月) と Python3 エンジニア認定データ分析試験 (2020 年 11 月) に合格しました。
+2024 年後半から Microsoft Azure を使ったプロジェクトに参画し、開発手法も結構しっかりとしたアジャイル (スクラム) で行っています。  
+プロジェクトへの参画にあたり、 Microsoft Azure をしっかり学ぶために昨年 Microsoft Certified: Azure Administrator Associate (AZ-104) を取得したので、次は DP 系の資格を取ろうかなと考えています。
 
-昨年はメインで担当していた Ionic と Ruby on Rails のプロジェクトと並行して、サブプロジェクトとして Django を使用した MPA の Web アプリや、 Ionic と Flask を使用した iPad 向け Web アプリの開発を行いました。
+これまではエンジニアとして Web システムの開発ばかりしていましたが、ここ半年以上は自分もエンジニアとして動きつつ、リーダーとして一緒にプロジェクトに参画しているチームメンバの支援をするようになり、マネージメント系の仕事の楽しさやアジャイルの開発手法に興味を持ち始めました。  
+上で書いたように Microsoft Azure の勉強をしつつ、改めてアジャイルの基本を学ぼうと「アジャイルソフトウエア開発技術者検定」の受験に向けて準備中です。
 
-現在はメインのプロジェクトが変わり、 Flask を使って REST API のコードを書いています。
+プライベートでは関西圏で行われる様々な LT 会や勉強会にちょくちょく参加していましたが、コロナ禍以降はほぼ参加することが無くなりました。  
+今年からまた少しずつ参加する機会を増やしていこうかと思っています。
 
-プライベートでは関西圏で行われる様々な LT 会や勉強会にちょくちょく参加していましたが、ここ一年程はコロナの影響でほとんど参加できていません。
-
-日々学んだことは [はてなブログ](https://ai-can-fly.hateblo.jp/) や [Qiita](https://qiita.com/hrgm_cmk) などで、少しずつアウトプットするように心掛けています。
+また、日々学んだことは [はてなブログ](https://ai-can-fly.hateblo.jp/) などで、少しずつアウトプットするように心掛けています。
 
 # Future Plans - 今後の予定
 
-社内に開発チームを作ろうとしています。
+何となくこれまでのキャリアの延長線上に行き詰まりを感じていて、エンジニアとして開発を行うだけでなくマネージメントにも業務の幅を広げていくことで活路を見出していけたらと考えています。  
+幸いにも弊社には多くのメンバと案件がいる・あるので、自分が手を上げて複数の案件に入っていくか、アジャイル開発チームのようなものを固定メンバで立ち上げるか、まずは社内でできることをやりつつ、これからのキャリアを考えていきます。
 
-[CMK Edges (仮称)](https://github.com/hrgm/cmk-edges)
-
-SIer にありがちな案件ありきの寄せ集めチームではなく、役割毎の専属メンバで構成されたホラクラシー型の開発チームを組織し、受託開発から自社プロダクトの立ち上げまでを目標に考えています。
-
-そもそも社内の風土にややミスマッチな部分があり、どこまで実現に近付けることができるかは不透明ですが、妥協せずにいけるところまでいくつもりです。
-
-と言いつつ、他に良い環境があればいつでも JOIN できるように、常にアンテナは張り続けようと思っています。
+また、必ずしも今の会社でなければできないということも無いので、他に良い環境があればいつでも JOIN できるように、常にアンテナは張り続けようと思っています。
 
 # Wish and Hope - 希望
 
-- 年収 650 万+
+## 環境・待遇
+
+- 年収 850 万+
+- 安心・安定の大手企業 (性格の問題で、自分は心の安定と平穏が良いパフォーマンスに繋がりやすい)
+- フルリモートワーク
+
+## 業務・職種 (Must ではない)
+
 - Web サービス (自社プロダクト) の開発
 - 自分よりレベルが高いエンジニアが沢山いるチーム
-- リモートワーク中心
+- 客先常駐でなければ、顧客サービスの開発 (持ち帰りの社内開発) でもいい
 
-Web を中心とした仕事で、個人の技術と知識を高めることが組織の成果・評価に繋がる環境が理想です。
+## その他
 
-基本はリモートワークで必要に応じてオンライン・オフラインで適切なコミュニケーションを取るという、合理的で柔軟な考え方ができる組織だと尚嬉しいです。
-
+Web を中心とした仕事で、個人の技術と知識を高めることが組織の成果・評価に繋がる環境が理想です。  
+基本はリモートワークで必要に応じてオンライン・オフラインで適切なコミュニケーションを取るという、合理的で柔軟な考え方ができる組織だと尚嬉しいです。  
 スキルと待遇がマッチする環境があれば、いつでもお声掛けください。
 
 会社を通した仕事のご依頼は弊社ホームページの [お問い合わせ](https://www.cmknet.co.jp/inquiry/) から、個人的なお話は各種 SNS からご連絡頂けるとありがたいです。

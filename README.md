@@ -1,16 +1,16 @@
-Last update : 2021/01/11
+Last update : 2025/04/28
 
 ---
 
 # hrgm@cmk
 
-フロントエンド寄りのフルスタックな Web エンジニア。
+フロントエンド寄りのフルスタックな Web エンジニア (でした) 。  
+最近はクラウドエンジニア (Microsoft Azure) として働いています。
 
 独立系 SIer に所属しています。
 
-バックエンドは色々触った結果、 Python に落ち着きました。
-
-ここ数年は業務用 Web アプリの開発がメインです。
+アジャイル開発 (スクラム) をもっとしっかり学びたいと思い、体系的に学ぶために各種資格の勉強中です。  
+今は「アジャイルソフトウエア開発技術者検定」で、次はスクラムマスター辺りかな。
 
 > ### In more detail
 >
@@ -23,9 +23,10 @@ Last update : 2021/01/11
 
 ## SNS
 
-- Twitter - [https://twitter.com/hrgm_cmk](https://twitter.com/hrgm_cmk)
+- X (Twitter) - [https://twitter.com/hrgm_cmk](https://twitter.com/hrgm_cmk)
 - Qiita - [https://qiita.com/hrgm_cmk](https://qiita.com/hrgm_cmk)
 - Wantedly - [https://www.wantedly.com/users/17886460](https://www.wantedly.com/users/17886460)
+- ブクログ - [https://booklog.jp/users/hrgm](https://booklog.jp/users/hrgm)
 
 # Technology Stack
 
@@ -39,13 +40,11 @@ Last update : 2021/01/11
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=fff)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=Ionic&logoColor=fff)
 
 ## Backend
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff)
 ![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff)
 
 ## Database
@@ -55,8 +54,9 @@ Last update : 2021/01/11
 
 ## Cloud
 
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-33B2EB?logo=Microsoft_Azure&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?logo=Firebase&logoColor=fff)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=Google-Cloud&logoColor=fff)
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/-Oracle_Cloud_Infrastructure-F80000?logo=Oracle&logoColor=fff)
 
 ## Other
 
@@ -65,6 +65,7 @@ Last update : 2021/01/11
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=Visual-Studio-Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=Docker&logoColor=fff)
 
 # GitHub Stats
 

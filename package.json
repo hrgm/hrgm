@@ -1,0 +1,19 @@
+{
+  "name": "hrgm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hrgm",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrgm/hrgm.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
