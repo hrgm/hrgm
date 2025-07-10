@@ -1,4 +1,4 @@
-Last update : 2025/04/28
+Last update : 2025/07/10
 
 ---
 
@@ -9,8 +9,7 @@ Last update : 2025/04/28
 
 独立系 SIer に所属しています。
 
-アジャイル開発 (スクラム) をもっとしっかり学びたいと思い、体系的に学ぶために各種資格の勉強中です。  
-今は「アジャイルソフトウエア開発技術者検定」で、次はスクラムマスター辺りかな。
+アジャイル開発 (スクラム) と Microsoft Azure をしっかり学ぶため、各種資格の勉強中です。
 
 > ### In more detail
 >
@@ -56,7 +55,7 @@ Last update : 2025/04/28
 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-33B2EB?logo=Microsoft_Azure&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?logo=Firebase&logoColor=fff)
-![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=Google-Cloud&logoColor=fff)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=Google-Cloud&logoColor=fff)
 
 ## Other
 
