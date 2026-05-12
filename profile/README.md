@@ -1,4 +1,4 @@
-Last update : 2026/03/01
+Last update : 2026/05/12
 
 ---
 
@@ -36,7 +36,6 @@ Web デザイン (UI / UX) は専門外ですが、何かしらの CSS フレー
 
 - X (Twitter) - [https://twitter.com/hrgm_cmk](https://twitter.com/hrgm_cmk)
 - Qiita - [https://qiita.com/hrgm_cmk](https://qiita.com/hrgm_cmk)
-- Wantedly - [https://www.wantedly.com/users/17886460](https://www.wantedly.com/users/17886460)
 - ブクログ - [https://booklog.jp/users/hrgm](https://booklog.jp/users/hrgm)
 
 ## Code
@@ -235,4 +234,4 @@ Web デザイン (UI / UX) は専門外ですが、何かしらの CSS フレー
 クラウドを中心とした仕事で、個人の技術と知識を高めることがチーム・組織の成果・評価に繋がる環境が理想です。  
 基本はリモートワークで必要に応じてオンライン・オフラインで適切なコミュニケーションを取るという、合理的で柔軟な考え方ができる組織だと尚嬉しいです。
 
-会社を通した仕事のご依頼は弊社ホームページの [お問い合わせ](https://www.cmknet.co.jp/inquiry/) から、個人的なお話は各種 SNS からご連絡頂けるとありがたいです。
+個人的なお話は各種 SNS からご連絡頂けるとありがたいです。

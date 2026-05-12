@@ -1,4 +1,4 @@
-Last update : 2026/03/01
+Last update : 2026/05/12
 
 ---
 
@@ -26,7 +26,6 @@ Last update : 2026/03/01
 
 - X (Twitter) - [https://twitter.com/hrgm_cmk](https://twitter.com/hrgm_cmk)
 - Qiita - [https://qiita.com/hrgm_cmk](https://qiita.com/hrgm_cmk)
-- Wantedly - [https://www.wantedly.com/users/17886460](https://www.wantedly.com/users/17886460)
 - ブクログ - [https://booklog.jp/users/hrgm](https://booklog.jp/users/hrgm)
 
 # Technology Stack
@@ -67,10 +66,3 @@ Last update : 2026/03/01
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-1D63ED?logo=Docker&logoColor=fff)
-
-# GitHub Stats
-
-GitHub はプライベートでのみ使用しています。
-
-![hrgm's github stats](https://github-readme-stats.vercel.app/api?username=hrgm&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrgm&langs_count=10&layout=compact)
